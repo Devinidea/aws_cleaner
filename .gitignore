@@ -1,0 +1,33 @@
+# AWS Cleaner 项目 .gitignore 文件
+
+# 日志文件
+*.log
+*.log.*
+*.bak
+
+# Python字节码文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 分发/打包目录
+dist/
+build/
+*.egg-info/
+*.egg
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# IDE和编辑器文件
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# 本地配置文件
+.env
+.aws/ 
