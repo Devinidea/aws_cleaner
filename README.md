@@ -39,7 +39,7 @@ A GUI-based utility to safely clean up AWS resources across multiple accounts an
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/aws-cleaner.git
+git clone https://github.com/Devinidea/aws_cleaner.git
 cd aws-cleaner
 ```
 
